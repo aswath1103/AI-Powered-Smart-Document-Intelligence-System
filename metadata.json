@@ -1,0 +1,7 @@
+{
+  "name": "Smart Document Intelligence System",
+  "description": "AI-Powered Smart Document Intelligence Engine operating within a Firebase architecture: Document to Understanding, Insights, Decisions, and Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
